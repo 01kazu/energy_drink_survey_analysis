@@ -4,6 +4,9 @@
 
 - [Introduction](#introduction)
 - [Objective](#objective)
+  - [Tools](#tools)
+- [Data Exploration](#data-exploration)
+
 
 
 # Introduction
@@ -28,6 +31,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
     5. Time preferred to consume energy drinks
     6. Number of times energy drinks are consumed
 
+
     ## Tools
   
     | Tool | Purpose |
@@ -36,4 +40,10 @@ Their Marketing team is responsible for increasing brand awareness, market share
     | Power BI | Visualizing the data via interactive dashboards |
     | GitHub | Hosting the project documentation and version control |
 
+# Data Exploration
+- These are my initial observations on the datasets given:
+  1. There are no missing data points in all three datasets.
+  2. The column **tried_before** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates if the respondants have tried our product or not. There is another column **taste_experience** that allows respondants to give a rating on our product if they have tried it. It seems some respondants responded No to **tried_before** while still giving a rating. So that has to be corrected.
+  3. The column **Reasons_preventing_trying** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates why respondents who answered No to the **tried_before** column did not try our product. Respondents who answered Yes to the **tried_before** column should not have responded to the **Reasons_preventing_trying** column. So that has to be corrected.
+  4. The column **Brand_perception** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates what respondents who answered Yes to the **heard_before** column think of our product. Respondents who answered No to the **heard_before** column should not have any response in the **Brand_perception** column. This has to be corrected.
 
