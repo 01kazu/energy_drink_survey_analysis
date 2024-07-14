@@ -105,5 +105,8 @@ There are various questions provided by the marketing team that we are expected 
     * 2.b\. What packaging preferences do respondents have for energy drinks?
         ![preferred-packaging](assets/images/2_b.png)
  
-        The top packaging preference is **compact and portable cans** which accounts for 40% of respondents. 30% for **innovative bottle design** and 15% for           
-        **collectible packaging**
+        The top packaging preference is **compact and portable cans** which accounts for 40% of respondents. 30% for **innovative bottle design** and 15% for          **collectible packaging**
+
+  * 3\. Competition Analysis
+      * 3.a\. Who are the current market leaders?
+      * 3.b\. What are the primary reasons consumers prefer those brands over ours? 
