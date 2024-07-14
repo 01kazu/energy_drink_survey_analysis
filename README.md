@@ -100,25 +100,31 @@ There are various questions provided by the marketing team that we are expected 
     * 2.a\. What are the preferred ingredients of energy drinks among respondents?
         ![preferred-ingredients](assets/images/2_a.png)
 
-        The top consumer preference is **caffeine** which accounts for 39% of our respondents, 25% for **vitamins** and 20% for **sugar**. 
+        The top consumer preference is **caffeine** which accounts for 39% of our respondents, 25% for **vitamins**, and 20% for **sugar**. 
 
     * 2.b\. What packaging preferences do respondents have for energy drinks?
         ![preferred-packaging](assets/images/2_b.png)
  
-        The top packaging preference is **compact and portable cans** which accounts for 40% of respondents, 30% for **innovative bottle design** and 15% for          **collectible packaging**
+        The top packaging preference is **compact and portable cans** which accounts for 40% of respondents, 30% for **innovative bottle design**, and 15% for          **collectible packaging**
 
 * 3\. Competition Analysis
     * 3.a\. Who are the current market leaders?
       ![market-leaders](assets/images/3_a.png)
 
-      The top market leader is **Cola-Coka** which accounts for 25% of the respondents, 21% for **Bepsi** and 19% for **Gangster**.
+      The top market leader is **Cola-Coka** which accounts for 25% of the respondents, 21% for **Bepsi**, and 19% for **Gangster**.
     * 3.b\. What are the primary reasons consumers prefer those brands over ours?
       ![consumers-reasons](assets/images/3_b.png)
 
-      The top primary reason respondents prefer to consume those brands is **brand reputation**. This accounts for 27% , 20% for **taste/flavor preference** and 19% **Availability**.
+      The top primary reason respondents prefer to consume those brands is **brand reputation**. This accounts for 27%, 20% for **taste/flavor preference**, and 19% for **Availability**.
 
 * 4\. Marketing Channels and Brand Awareness
     * 4.a\. Which marketing channel can be used to reach more customers?
+      ![marketing-channels](assets/images/4_a.png)
+
+      The most effective marketing channel is **Online ads** which accounts for 40% of our respondents, 27% for **TV commercials**, and 12% for **Outdoor billboards**.
       
     * 4.b\. How effective are different marketing strategies and channels in reaching our customers?
+      
+      The most effective marketing channels I would recommend are **Online ads** and **TV commercials**. They both account for 67% of the respondents. 
+      The **Outdoor billboards** could be considered depending on the cost of placements.
       
