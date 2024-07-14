@@ -78,21 +78,25 @@ fact_survey_responses.loc[heard_before, 'Brand_perception'] = np.nan
 There are various questions provided by the marketing team that we are expected to answer:
 * 1\. Demographic Insights
   
-   * 1.1\. Who prefers energy drinks more? (male/female/non-binary)
+   * 1.a\. Who prefers energy drinks more? (male/female/non-binary)
        ![gender-group](assets/images/1_1.png)
      
        Looking into gender, 60% of the respondents are Male, about 35% are female and 5% are non-binary. More than half of our respondents are male. Therefore it seems            that males prefer energy drinks. This corresponds with information found [here]([https://typeset.io/questions/is-there-difference-in-energy-drink-consumption-and-gender-2d3ls3206u#:~:text=Energy%20drink%20consumption%20differs%20by,times%20more%20than%20women%201.](https://www.ingentaconnect.com/contentone/psp/hbpr/2022/00000009/00000003/art00006)), that more male take energy drinks than female. It also adds that males buy in more          quantity than females.
      
-   * 1.2\. What age group prefers energy drinks more?
+   * 1.b\. What age group prefers energy drinks more?
        ![age-group](assets/images/1_2.png)
      
        **19-30** age group purchases our product the most. They account for 55% of the dataset. Followed by the **31-45** age group which is 24% and **15-18** age group           which is 15%. It seems the **65+** age group purchased our product the least. It has to be taken into           
        consideration that the **15-18** age group has smaller bins than the other age ranges. According to the [NIC](https://www.nccih.nih.gov/health/energy-drinks#:~:text=Next%20to%20multivitamins%2C%20energy%20drinks,kinds%20of%20energy%20drink%20products.), Men of the **18-34** age group consume the most energy                     drinks, and almost one-third of teens between **12-17** age group drink them regularly.
      
-   * 1.3\. Which type of marketing reaches the most Youth (15-30)? 
+   * 1.c\. Which type of marketing reaches the most Youth (15-30)? 
        ![15-30-group](assets/images/1_3.png)
      
        The top marketing channel for the 19-30 age range is **Online ads** which account for 48% of the respondents. The next marketing channel is **TV Commercial** which accounts for 25%. The bottom marketing channel is  **Print Media** which accounts for 6%.
+
+* 2\. Consumer Preferences
+    * 2.a\. 
+    * 2.b\. 
        
      
    
