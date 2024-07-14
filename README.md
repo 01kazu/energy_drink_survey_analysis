@@ -71,3 +71,15 @@ fact_survey_responses.loc[tried_before, 'Reasons_preventing_trying'] = np.nan
 heard_before = fact_survey_responses['Heard_before'] == 'No'
 fact_survey_responses.loc[heard_before, 'Brand_perception'] = np.nan
 ```
+
+# Data Analysis
+
+## Primary Analysis
+There are various questions provided by the marketing team that we are expected to answer:
+* 1\. Demographic Insights
+   * 1.1\. Who prefers energy drinks more? (male/female/non-binary)
+     
+   * 1.2\. What age group prefers energy drinks more?
+   * 1.3\. Which type of marketing reaches the most Youth (15-30)? 
+    
+   
