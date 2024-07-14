@@ -7,6 +7,8 @@
   - [Tools](#tools)
 - [Data Exploration](#data-exploration)
 - [Data Cleaning](#data-cleaning)
+- [Data Analysis](#data-analysis)
+  - [Primary Insights](#primary-insights)
 
 
 
@@ -44,7 +46,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 # Data Exploration
 - These are my initial observations on the datasets given:
   1. There are no missing data points in all three datasets.
-  2. The column **Tried_before** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates if the respondants have tried our product or not. There is another column **Taste_experience** that allows respondants to give a rating on our product if they have tried it. It seems some respondants responded No to **Tried_before** while still giving a rating. So that has to be corrected.
+  2. The column **Tried_before** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates if the respondents have tried our product or not. There is another column **Taste_experience** that allows respondents to give a rating on our product if they have tried it. It seems some respondents responded No to **Tried_before** while still giving a rating. So that has to be corrected.
   3. The column **Reasons_preventing_trying** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates why respondents who answered No to the **Tried_before** column did not try our product. Respondents who answered Yes to the **Tried_before** column should not have responded to the **Reasons_preventing_trying** column. So that has to be corrected.
   4. The column **Brand_perception** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates what respondents who answered Yes to the **heard_before** column think of our product. Respondents who answered No to the **Heard_before** column should not have any response in the **Brand_perception** column. This has to be corrected.
 
@@ -74,7 +76,7 @@ fact_survey_responses.loc[heard_before, 'Brand_perception'] = np.nan
 
 # Data Analysis
 
-## Primary Analysis
+## Primary Insights
 There are various questions provided by the marketing team that we are expected to answer:
 * 1\. Demographic Insights
   
@@ -92,11 +94,16 @@ There are various questions provided by the marketing team that we are expected 
    * 1.c\. Which type of marketing reaches the most Youth (15-30)? 
        ![15-30-group](assets/images/1_3.png)
      
-       The top marketing channel for the 19-30 age range is **Online ads** which account for 48% of the respondents. The next marketing channel is **TV Commercial** which accounts for 25%. The bottom marketing channel is  **Print Media** which accounts for 6%.
+       The top marketing channel for the 19-30 age range is **Online ads** which account for 48% of the respondents. The next marketing channel is **TV Commercial** which        accounts for 25%. The bottom marketing channel is  **Print Media** which accounts for 6%.
 
 * 2\. Consumer Preferences
-    * 2.a\. 
-    * 2.b\. 
-       
-     
-   
+    * 2.a\. What are the preferred ingredients of energy drinks among respondents?
+        ![preferred-ingredients](assets/images/2_a.png)
+
+        The top consumer preference is **caffeine** which accounts for 39% of our respondents, 25% for **vitamins** and 20% for **sugar**. 
+
+    * 2.b\. What packaging preferences do respondents have for energy drinks?
+        ![preferred-packaging](assets/images/2_b.png)
+ 
+        The top packaging preference is **compact and portable cans** which accounts for 40% of respondents. 30% for **innovative bottle design** and 15% for           
+        **collectible packaging**
