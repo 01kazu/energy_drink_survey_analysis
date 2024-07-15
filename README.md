@@ -121,13 +121,36 @@ There are various questions provided by the marketing team that we are expected 
     * 4.b\. How effective are different marketing strategies and channels in reaching our customers?
       Our potential customers in this case refer to respondents who either heard or tried our product. I wanted to identify what marketing channels these respondents            preferred.
  
-      [marketing-channels-heard](assets/images/4_b1.png)
+      ![marketing-channels-heard](assets/images/4_b1.png)
       
       The top marketing channel is Online ads which account for 41% of respondents who heard about our product. TV commercials which account for 28%. Outdoor billboards         which account for 12%.
  
-      [marketing-channels-tried](assets/images/4_b2.png)
+      ![marketing-channels-tried](assets/images/4_b2.png)
       
       The top marketing channel is **Online ads** which accounts for 42% of respondents who tried our product. **TV commercials** which account for 20%. **Other** which         accounts for 15%.   
 
       For respondents who heard of or tried our product, **Online** and **TV commercials** are the most effective marketing channels and they should be used.
+
+* 5\. Brand Penetration
+    * 5.a\. What do people think about our brand? (overall rating)
+
+      ![rating](assets/images/5_a.png)
+
+      The distribution of the ratings above shows us that more respondents rated our product 3-5 rating compared to the 1-2 rating. This is evident when the average             rating is 3.3. Generally, if 3 is considered average, respondents think our product is slightly above average.
+    
+    * 5.b\. Which cities do we need to focus on?
+
+      ![city](assets/images/5_b1.png)
+
+      Focusing on cities where all respondents reside, **Bangalore** has the highest number of respondents. This accounts for 41%. Next is **Hyberabad** which                   accounts for 18%. Then **Mumbai** that accounts for 15%.
+
+      ![city-rated-4-or-5](assets/images/5_b2.png)
+
+      2153 respondents rated our product either 4 or 5. 41% of which live in **Bangalore**, 26% in **Hyderabad**, and 13% in **Chennai**.
+
+      ![%-of-respondents-who-rated-4-or5](assets/images/5_b3.png)
+
+      Finally, focus was made on the percentage of people who rated our product either 4 or 5 compared to the total number of their corresponding cities. As shown above,        31% of respondents from **Bangalore** rated our product a 4 or 5, 30% from **Hyderabad**, and 20% from **Kolkata**.
+
+      On the different criterias given, **Bangalore** and **Hyderabad** were at the top. I recommend we focus on these cities.
       
