@@ -57,7 +57,6 @@ Their Marketing team is responsible for increasing brand awareness, market share
 | --- | --- | --- |
 | **Tried_before** = No | **Taste_experience** | NULL |
 | **Tried_before** = Yes | **Reasons_preventing_trying** | NULL |
-| **Heard_before** = No | **Brand_perception** | NULL |
 
 Below are the codes used to execute the cleaning of data:
 
@@ -68,10 +67,6 @@ fact_survey_responses.loc[not_tried_before, 'Taste_experience'] = np.nan
 ```python
 tried_before = fact_survey_responses['Tried_before'] == 'Yes'
 fact_survey_responses.loc[tried_before, 'Reasons_preventing_trying'] = np.nan
-```
-```python
-heard_before = fact_survey_responses['Heard_before'] == 'No'
-fact_survey_responses.loc[heard_before, 'Brand_perception'] = np.nan
 ```
 
 # Data Analysis
@@ -115,7 +110,7 @@ There are various questions provided by the marketing team that we are expected 
     * 3.b\. What are the primary reasons consumers prefer those brands over ours?
       ![consumers-reasons](assets/images/3_b.png)
 
-      The top primary reason respondents prefer to consume those brands is **brand reputation**. This accounts for 27%, 20% for **taste/flavor preference**, and 19% for **Availability**.
+      The top primary reason respondents prefer to consume those brands is **brand reputation**. This accounts for 27%, 20% for **taste/flavor preference**, and 19% for         **Availability**.
 
 * 4\. Marketing Channels and Brand Awareness
     * 4.a\. Which marketing channel can be used to reach more customers?
@@ -124,7 +119,15 @@ There are various questions provided by the marketing team that we are expected 
       The most effective marketing channel is **Online ads** which accounts for 40% of our respondents, 27% for **TV commercials**, and 12% for **Outdoor billboards**.
       
     * 4.b\. How effective are different marketing strategies and channels in reaching our customers?
+      Our potential customers in this case refer to respondents who either heard or tried our product. I wanted to identify what marketing channels these respondents            preferred.
+ 
+      [marketing-channels-heard](assets/images/4_b1.png)
       
-      The most effective marketing channels I would recommend are **Online ads** and **TV commercials**. They both account for 67% of the respondents. 
-      The **Outdoor billboards** could be considered depending on the cost of placements.
+      The top marketing channel is Online ads which account for 41% of respondents who heard about our product. TV commercials which account for 28%. Outdoor billboards         which account for 12%.
+ 
+      [marketing-channels-tried](assets/images/4_b2.png)
+      
+      The top marketing channel is **Online ads** which accounts for 42% of respondents who tried our product. **TV commercials** which account for 20%. **Other** which         accounts for 15%.   
+
+      For respondents who heard of or tried our product, **Online** and **TV commercials** are the most effective marketing channels and they should be used.
       
