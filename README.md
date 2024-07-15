@@ -161,15 +161,13 @@ There are various questions provided by the marketing team that we are expected 
   
       ![purchase-location](assets/images/6_a.png)
 
-      The most preferred location respondents prefer to purchase energy drinks is **Supermarkets** which accounts for **45%** of the respondents. Next is **Online         
-      retailers** which accounts for **26%**, and **Gym and fitness centers** which accounts for **15%**.
+      The most preferred location respondents prefer to purchase energy drinks is **Supermarkets** which accounts for **45%** of the respondents. Next is **Online retailers** which accounts for **26%**, and **Gym and fitness centers** which accounts for **15%**.
     
     * 6.b\. What are the typical consumption situations for energy drinks among respondents?
  
       ![typical-consumption-situation](assets/images/6_b.png)
 
-      The situation that respondents typically consume energy drinks the most is **Sports/exercise** which accounts for **45%** of respondents. Next is             
-      **Studying/working** which accounts for **32%** and **Social outings/parties** which accounts for **15%**.
+      The situation that respondents typically consume energy drinks the most is **Sports/exercise** which accounts for **45%** of respondents. Next is       **Studying/working** which accounts for **32%** and **Social outings/parties** which accounts for **15%**.
       
     * 6.c\. What factors influence respondents' purchase decisions such as price range and limited edition packaging?
       
