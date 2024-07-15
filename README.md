@@ -39,7 +39,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
   
     | Tool | Purpose |
     | --- | --- |
-    | Python | Exploring, cleaning, analyzing the data |
+    | Python | Exploring, cleaning, and analyzing the data |
     | Power BI | Visualizing the data via interactive dashboards |
     | GitHub | Hosting the project documentation and version control |
 
@@ -51,7 +51,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
   4. The column **Brand_perception** of the [fact_survey_responses.csv](assets/datasets/fact_survey_responses.csv) dataset indicates what respondents who answered Yes to the **heard_before** column think of our product. Respondents who answered No to the **Heard_before** column should not have any response in the **Brand_perception** column. This has to be corrected.
 
 # Data Cleaning
-- The pandas and the numpy packages in the python programming language will be used to change values of the columns to expected Null values. These are the conditions:
+- The pandas and the numpy packages in the python programming language will be used to change the values of the columns to expected Null values. These are the conditions:
   
 | Condition | Column Name | Expected Value |
 | --- | --- | --- |
@@ -76,58 +76,60 @@ There are various questions provided by the marketing team that we are expected 
 * 1\. Demographic Insights
   
    * 1.a\. Who prefers energy drinks more? (male/female/non-binary)
-       ![gender-group](assets/images/1_1.png)
      
-       Looking into gender, 60% of the respondents are Male, about 35% are female and 5% are non-binary. More than half of our respondents are male. Therefore it seems            that males prefer energy drinks. This corresponds with information found [here]([https://typeset.io/questions/is-there-difference-in-energy-drink-consumption-and-gender-2d3ls3206u#:~:text=Energy%20drink%20consumption%20differs%20by,times%20more%20than%20women%201.](https://www.ingentaconnect.com/contentone/psp/hbpr/2022/00000009/00000003/art00006)), that more male take energy drinks than female. It also adds that males buy in more          quantity than females.
+     ![gender-group](assets/images/1_1.png)
+     
+     Looking into gender, **60%** of the respondents are **Male**, about **35%** are **Female** and **5%** are **Non-binary**. More than half of our respondents are            male. Therefore it seems that males prefer energy drinks. This corresponds with information found [here]([https://typeset.io/questions/is-there-difference-in-energy-drink-consumption-and-gender-2d3ls3206u#:~:text=Energy%20drink%20consumption%20differs%20by,times%20more%20than%20women%201.](https://www.ingentaconnect.com/contentone/psp/hbpr/2022/00000009/00000003/art00006)), that more male take energy drinks than female. It also adds that males buy in more       quantity than females.
      
    * 1.b\. What age group prefers energy drinks more?
-       ![age-group](assets/images/1_2.png)
+
+     ![age-group](assets/images/1_2.png)
      
-       **19-30** age group purchases our product the most. They account for 55% of the dataset. Followed by the **31-45** age group which is 24% and **15-18** age group           which is 15%. It seems the **65+** age group purchased our product the least. It has to be taken into           
-       consideration that the **15-18** age group has smaller bins than the other age ranges. According to the [NIC](https://www.nccih.nih.gov/health/energy-drinks#:~:text=Next%20to%20multivitamins%2C%20energy%20drinks,kinds%20of%20energy%20drink%20products.), Men of the **18-34** age group consume the most energy                     drinks, and almost one-third of teens between **12-17** age group drink them regularly.
+     **19-30** age group purchases our product the most. They account for **55%** of the dataset. Followed by the **31-45** age group which is **24%** and **15-18** age        group which is **15%**. It seems the **65+** age group purchased our product the least. It has to be taken into           
+     consideration that the **15-18** age group has smaller bins than the other age ranges. According to the [NIC](https://www.nccih.nih.gov/health/energy-drinks#:~:text=Next%20to%20multivitamins%2C%20energy%20drinks,kinds%20of%20energy%20drink%20products.), Men of the **18-34** age group consume the most energy                  drinks, and almost one-third of teens between **12-17** age group drink them regularly.
      
    * 1.c\. Which type of marketing reaches the most Youth (15-30)? 
        ![15-30-group](assets/images/1_3.png)
      
-       The top marketing channel for the 19-30 age range is **Online ads** which account for 48% of the respondents. The next marketing channel is **TV Commercial** which        accounts for 25%. The bottom marketing channel is  **Print Media** which accounts for 6%.
+       The best marketing channel for the 19-30 age range is **Online ads** which account for **48%** of the respondents. The next marketing channel is **TV Commercial**         which accounts for **25%**. The worst marketing channel is **Print Media** which accounts for **6%**.
 
 * 2\. Consumer Preferences
     * 2.a\. What are the preferred ingredients of energy drinks among respondents?
         ![preferred-ingredients](assets/images/2_a.png)
 
-        The top consumer preference is **caffeine** which accounts for 39% of our respondents, 25% for **vitamins**, and 20% for **sugar**. 
+        The top consumer preference is **caffeine** which accounts for **39%** of our respondents, **vitamins** for **25%**, and **sugar** for **20%**. 
 
     * 2.b\. What packaging preferences do respondents have for energy drinks?
         ![preferred-packaging](assets/images/2_b.png)
  
-        The top packaging preference is **compact and portable cans** which accounts for 40% of respondents, 30% for **innovative bottle design**, and 15% for          **collectible packaging**
+        The top packaging preference is **Compact and portable cans** which accounts for **40%** of respondents, **Innovative bottle design** accounts for **30%**,                **Collectible packaging** accounts for **15%**.
 
 * 3\. Competition Analysis
     * 3.a\. Who are the current market leaders?
       ![market-leaders](assets/images/3_a.png)
 
-      The top market leader is **Cola-Coka** which accounts for 25% of the respondents, 21% for **Bepsi**, and 19% for **Gangster**.
+      The top market leader is **Cola-Coka** which accounts for **25%** of the respondents, **Bepsi** accounts for **21%**, and **Gangster** accounts for **19%**.
     * 3.b\. What are the primary reasons consumers prefer those brands over ours?
       ![consumers-reasons](assets/images/3_b.png)
 
-      The top primary reason respondents prefer to consume those brands is **brand reputation**. This accounts for 27%, 20% for **taste/flavor preference**, and 19% for         **Availability**.
+      The primary reason respondents prefer to consume those brands is **Brand reputation** which accounts for **27%** of the respondents, **Taste/flavor                        preference** accounts for **20%**, and **Availability** accounts for **19%**.
 
 * 4\. Marketing Channels and Brand Awareness
     * 4.a\. Which marketing channel can be used to reach more customers?
       ![marketing-channels](assets/images/4_a.png)
 
-      The most effective marketing channel is **Online ads** which accounts for 40% of our respondents, 27% for **TV commercials**, and 12% for **Outdoor billboards**.
+      The most effective marketing channel is **Online ads** accounting for **40%** of our respondents, **TV commercials** accounting for **27%**, and **Outdoor                 billboards** accounting for **12%**.
       
     * 4.b\. How effective are different marketing strategies and channels in reaching our customers?
       Our potential customers in this case refer to respondents who either heard or tried our product. I wanted to identify what marketing channels these respondents            preferred.
  
       ![marketing-channels-heard](assets/images/4_b1.png)
       
-      The top marketing channel is Online ads which account for 41% of respondents who heard about our product. TV commercials which account for 28%. Outdoor billboards         which account for 12%.
+      The top marketing channel is **Online ads** which account for **41%** of respondents who heard about our product. **TV commercials** which account for **28%**.            **Outdoor billboards** which account for **12%**.
  
       ![marketing-channels-tried](assets/images/4_b2.png)
       
-      The top marketing channel is **Online ads** which accounts for 42% of respondents who tried our product. **TV commercials** which account for 20%. **Other** which         accounts for 15%.   
+      The top marketing channel is **Online ads** which accounts for **42%** of respondents who tried our product. **TV commercials** which account for **20%**. **Other**       which accounts for **15%**.   
 
       For respondents who heard of or tried our product, **Online** and **TV commercials** are the most effective marketing channels and they should be used.
 
@@ -136,21 +138,38 @@ There are various questions provided by the marketing team that we are expected 
 
       ![rating](assets/images/5_a.png)
 
-      The distribution of the ratings above shows us that more respondents rated our product 3-5 rating compared to the 1-2 rating. This is evident when the average             rating is 3.3. Generally, if 3 is considered average, respondents think our product is slightly above average.
+      The distribution of the ratings above shows us that more respondents rated our product 3-5 rating compared to the 1-2 rating. This is evident as the average             rating is 3.3. Generally, if 3 is considered average, respondents think our product is slightly above average.
     
     * 5.b\. Which cities do we need to focus on?
 
       ![city](assets/images/5_b1.png)
 
-      Focusing on cities where all respondents reside, **Bangalore** has the highest number of respondents. This accounts for 41%. Next is **Hyberabad** which                   accounts for 18%. Then **Mumbai** that accounts for 15%.
+      Focusing on cities where all respondents reside, **Bangalore** has the highest number of respondents accounting for **41%** of respondents. Next is **Hyberabad**          accounting for **18%**. Then **Mumbai** accounting for **15%**.
 
       ![city-rated-4-or-5](assets/images/5_b2.png)
 
-      2153 respondents rated our product either 4 or 5. 41% of which live in **Bangalore**, 26% in **Hyderabad**, and 13% in **Chennai**.
+      2153 respondents rated our product either 4 or 5. **41%** of which live in **Bangalore**, **26%** in **Hyderabad**, and **13%** in **Chennai**.
 
       ![%-of-respondents-who-rated-4-or5](assets/images/5_b3.png)
 
-      Finally, focus was made on the percentage of people who rated our product either 4 or 5 compared to the total number of their corresponding cities. As shown above,        31% of respondents from **Bangalore** rated our product a 4 or 5, 30% from **Hyderabad**, and 20% from **Kolkata**.
+      Finally, focus was made on the percentage of people who rated our product either 4 or 5 compared to the total number of their corresponding cities. As shown above,        **31%** of respondents from **Bangalore** rated our product a 4 or 5, **30%** from **Hyderabad**, and **20%** from **Kolkata**.
 
       On the different criterias given, **Bangalore** and **Hyderabad** were at the top. I recommend we focus on these cities.
+
+* 6\. Purchase Behaviour
+    * 6.a\. Where do respondents prefer to purchase energy drinks?
+  
+      ![purchase-location](assets/images/6_a.png)
+
+      The most preferred location respondents prefer to purchase energy drinks is **Supermarkets** which accounts for **45%** of the respondents. Next is **Online         
+      retailers** which accounts for **26%**, and **Gym and fitness centers** which accounts for **15%**.
+    
+    * 6.b\. What are the typical consumption situations for energy drinks among respondents?
+ 
+      ![typical-consumption-situation](assets/images/6_b.png)
+
+      The situation that respondents typically consume energy drinks the most is **Sports/exercise** which accounts for **45%** of respondents. Next is             
+      **Studying/working** which accounts for **32%** and **Social outings/parties** which accounts for **15%**.
+      
+    * 6.c\. What factors influence respondents' purchase decisions such as price range and limited edition packaging?
       
