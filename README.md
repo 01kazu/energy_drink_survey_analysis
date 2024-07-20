@@ -168,6 +168,21 @@ There are various questions provided by the marketing team that we are expected 
       ![typical-consumption-situation](assets/images/6_b.png)
 
       The situation that respondents typically consume energy drinks the most is **Sports/exercise** which accounts for **45%** of respondents. Next is       **Studying/working** which accounts for **32%** and **Social outings/parties** which accounts for **15%**.
-      
-    * 6.c\. What factors influence respondents' purchase decisions such as price range and limited edition packaging?
+
+    * 6.c\. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
+      * i. Price range
+        ![price-range](assets/images/6_c1.png)
+ 
+        The most preferred price range for respondents is **50-99** which accounts for **43%** of respondents. Next is **100-150** which accounts for **31%** of                   respondents.
+ 
+        **74%** of respondents preferred the price range between **50-150**.
+
+      * ii. Limited edition packaging
+        ![limited-packaging](assets/images/6_c2.png)
+
+        **40%** of the respondents answered **Yes**  and **40%** of the respondents answered **No**. **20%** answered **Not Sure**.
+        
+        Limited edition packaging involves making unique limited branded products for a brief period of time. Therefore, I recommended that our products should
+        have limited edition packaging. **40%** of respondents said **Yes** and limited edition packaging is not targeted to all of our customers. 
+        
       
