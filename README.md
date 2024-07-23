@@ -173,7 +173,7 @@ There are various questions provided by the marketing team that we are expected 
       * i. Price range
         ![price-range](assets/images/6_c1.png)
  
-        The most preferred price range for respondents is **50-99** which accounts for **43%** of respondents. Next is **100-150** which accounts for **31%** of                   respondents.
+        The most preferred price range for respondents is **50-99** which accounts for **43%** of respondents. Next is **100-150** which accounts for **31%** of respondents.
  
         **74%** of respondents preferred the price range between **50-150**.
 
@@ -183,6 +183,34 @@ There are various questions provided by the marketing team that we are expected 
         **40%** of the respondents answered **Yes**  and **40%** of the respondents answered **No**. **20%** answered **Not Sure**.
         
         Limited edition packaging involves making unique limited branded products for a brief period of time. Therefore, I recommended that our products should
-        have limited edition packaging. **40%** of respondents said **Yes** and limited edition packaging is not targeted to all of our customers. 
-        
-      
+        have limited edition packaging. **40%** of respondents said **Yes** and limited edition packaging is not targeted to all of our customers.
+
+* 7\. Product Development
+  * 7.a\. Which area of business school we focus more on our product development? (Branding/taste/availability)
+    
+    ![brand-packaging](assets/images/7_a1.png)
+
+    **60%** of people had **Neutral** thoughts about our product. **23%** of people had **Positive** thoughts about our product. **17%** of people had **Negative** thoughts about our product.
+
+    ![reasons-preventing-trying](assets/images/7_a2.png)
+    
+    **Health concerns** is the top reason **23%** of the respondents dislike our product. Next is **Not interested in energy drinks** which accounts for **23%**, **Not available locally** which accounts for **23%** and 
+    **Unfamiliar with the brand** which accounts **20%**.
+
+    ![reasons-for-choosing-brands](assets/images/7_a3.png)
+    
+    The top reason respondents choose other brands is **Brand reputation** which accounts for **27%** of the respondents. Next is **Taste/flavor preference** which accounts for **20%** and **Availability** which 
+    accounts for **19%**.
+
+    ![improvements-desired](assets/images/7_a4.png)
+    
+    **Reduced sugar content** is the top improvement respondents would like to see in energy drinks which accounts for **30%**. **More natural ingredients** accounts for **25%** and **Wider range of flavors** accounts 
+    for **20%**.
+
+    ![packaging-preference](assets/images/7_a5.png)
+    
+    Respondents prefer **Compact and portable cans** which account for **40%**. Next is **Innovative bottle design** which accounts for **30%** and **Collectible packaging** which accounts **15%**.
+    
+    ![ingredients-expected](assets/images/7_a6.png)
+
+    The top ingredient respondents preferred is **Caffeine** which accounts for **30%** of respondents. Next is **Vitamins** which accounts for **25%**. **Sugar** which accounts for **20%**.
