@@ -138,7 +138,7 @@ There are various questions provided by the marketing team that we are expected 
 
       ![rating](assets/images/5_a.png)
 
-      The distribution of the ratings above shows us that more respondents rated our product 3-5 rating compared to the 1-2 rating. This is evident as the average             rating is 3.3. Generally, if 3 is considered average, respondents think our product is slightly above average.
+      Nearly **50%** of the  respondents (**4881**) have tried our product. The distribution of the ratings above shows us that more respondents rated our product 3-5 rating compared to the 1-2 rating. The average rating is 3.3. Generally, as 3 is average, respondents generally think our product is slightly above average.
     
     * 5.b\. Which cities do we need to focus on?
 
@@ -154,7 +154,7 @@ There are various questions provided by the marketing team that we are expected 
 
       Finally, focus was made on the percentage of people who rated our product either 4 or 5 compared to the total number of their corresponding cities. As shown above,        **31%** of respondents from **Bangalore** rated our product a 4 or 5, **30%** from **Hyderabad**, and **20%** from **Kolkata**.
 
-      On the different criterias given, **Bangalore** and **Hyderabad** were at the top. I recommend we focus on these cities.
+      On the different criterias given, **Bangalore** and **Hyderabad** were at the top. I recommend we focus on these cities mainly. While sales made in the other cities will be closely monitored to see of any changes will our as we change our product. 
 
 * 6\. Purchase Behaviour
     * 6.a\. Where do respondents prefer to purchase energy drinks?
@@ -186,31 +186,40 @@ There are various questions provided by the marketing team that we are expected 
         have limited edition packaging. **40%** of respondents said **Yes** and limited edition packaging is not targeted to all of our customers.
 
 * 7\. Product Development
-  * 7.a\. Which area of business school we focus more on our product development? (Branding/taste/availability)
+  * 7.a\. Which area of business should we focus more on our product development? (Branding/taste/availability)
     
-    ![brand-packaging](assets/images/7_a1.png)
+    Before deciding where to focus, it's important to view what respondents think of our product.
+    ![brand-perception](assets/images/7_a1.png)
 
     **60%** of people had **Neutral** thoughts about our product. **23%** of people had **Positive** thoughts about our product. **17%** of people had **Negative** thoughts about our product.
+    Generally, respondents think our products are just okay which aligns with the respondents' average rating of our product of **3.3**.
+    
+    Next, we focus on what reasons our respondents have for not trying our product.  
 
     ![reasons-preventing-trying](assets/images/7_a2.png)
     
-    **Health concerns** is the top reason **23%** of the respondents dislike our product. Next is **Not interested in energy drinks** which accounts for **23%**, **Not available locally** which accounts for **23%** and 
-    **Unfamiliar with the brand** which accounts **20%**.
+    There are **5119** respondents who have not tried our product. **Health concerns** is the top reason **23%** of these respondents dislike our product. Next is **Not interested in energy drinks** which accounts for 
+    **23%**, **Not available locally** which accounts for **23%** and **Unfamiliar with the brand** which accounts **20%**.
+
+    This [publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682602/) focuses on the benefits and adverse effects of energy drinks.
+    __Recommendations__
+    - I recommend the company makes healthier versions of our product to fit these needs.
+    - I recommend the company increases its advertisements of our product
+   
+    I also looked into why respondents were choosing other brands.
 
     ![reasons-for-choosing-brands](assets/images/7_a3.png)
     
     The top reason respondents choose other brands is **Brand reputation** which accounts for **27%** of the respondents. Next is **Taste/flavor preference** which accounts for **20%** and **Availability** which 
     accounts for **19%**.
-
+  
+    Also I looked into what improvements respondents desired.
     ![improvements-desired](assets/images/7_a4.png)
     
     **Reduced sugar content** is the top improvement respondents would like to see in energy drinks which accounts for **30%**. **More natural ingredients** accounts for **25%** and **Wider range of flavors** accounts 
     for **20%**.
 
+    Lastly I looked into what packaging respondents preferred.
     ![packaging-preference](assets/images/7_a5.png)
     
-    Respondents prefer **Compact and portable cans** which account for **40%**. Next is **Innovative bottle design** which accounts for **30%** and **Collectible packaging** which accounts **15%**.
-    
-    ![ingredients-expected](assets/images/7_a6.png)
-
-    The top ingredient respondents preferred is **Caffeine** which accounts for **30%** of respondents. Next is **Vitamins** which accounts for **25%**. **Sugar** which accounts for **20%**.
+    Respondents prefer **Compact and portable cans** which account for **40%**. Next is **Innovative bottle design** which accounts for **30%** and **Collectible packaging** which accounts for **15%**.
