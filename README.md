@@ -9,7 +9,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
   - [Primary Insights](#primary-insights)
-
+- [Recommendation](#recommendation)
 
 
 # Introduction
@@ -79,7 +79,7 @@ There are various questions provided by the marketing team that we are expected 
      
      ![gender-group](assets/images/1_1.png)
      
-     Looking into gender, **60%** of the respondents are **Male**, about **35%** are **Female** and **5%** are **Non-binary**. More than half of our respondents are            male. Therefore it seems that males prefer energy drinks. This corresponds with information found [here]([https://typeset.io/questions/is-there-difference-in-energy-drink-consumption-and-gender-2d3ls3206u#:~:text=Energy%20drink%20consumption%20differs%20by,times%20more%20than%20women%201.](https://www.ingentaconnect.com/contentone/psp/hbpr/2022/00000009/00000003/art00006)), that more male take energy drinks than female. It also adds that males buy in more       quantity than females.
+     Looking into gender, **60%** of the respondents are **Male**, about **35%** are **Female** and **5%** are **Non-binary**. More than half of our respondents are male. Therefore males prefer energy drinks. This corresponds with information found [here]([https://typeset.io/questions/is-there-difference-in-energy-drink-consumption-and-gender-2d3ls3206u#:~:text=Energy%20drink%20consumption%20differs%20by,times%20more%20than%20women%201.](https://www.ingentaconnect.com/contentone/psp/hbpr/2022/00000009/00000003/art00006)), that more male take energy drinks than female. It also adds that males buy in more       quantity than females.
      
    * 1.b\. What age group prefers energy drinks more?
 
@@ -91,7 +91,7 @@ There are various questions provided by the marketing team that we are expected 
    * 1.c\. Which type of marketing reaches the most Youth (15-30)? 
        ![15-30-group](assets/images/1_3.png)
      
-       The best marketing channel for the 19-30 age range is **Online ads** which account for **48%** of the respondents. The next marketing channel is **TV Commercial**         which accounts for **25%**. The worst marketing channel is **Print Media** which accounts for **6%**.
+       The best marketing channel for the 19-30 age range is **Online ads** which account for **48%** of the respondents. The next marketing channel is **TV Commercial** which accounts for **25%**. The worst marketing channel is **Print Media** which accounts for **6%**.
 
 * 2\. Consumer Preferences
     * 2.a\. What are the preferred ingredients of energy drinks among respondents?
@@ -102,7 +102,7 @@ There are various questions provided by the marketing team that we are expected 
     * 2.b\. What packaging preferences do respondents have for energy drinks?
         ![preferred-packaging](assets/images/2_b.png)
  
-        The top packaging preference is **Compact and portable cans** which accounts for **40%** of respondents, **Innovative bottle design** accounts for **30%**,                **Collectible packaging** accounts for **15%**.
+        The top packaging preference is **Compact and portable cans** which accounts for **40%** of respondents, **Innovative bottle design** accounts for **30%**, **Collectible packaging** accounts for **15%**.
 
 * 3\. Competition Analysis
     * 3.a\. Who are the current market leaders?
@@ -118,10 +118,10 @@ There are various questions provided by the marketing team that we are expected 
     * 4.a\. Which marketing channel can be used to reach more customers?
       ![marketing-channels](assets/images/4_a.png)
 
-      The most effective marketing channel is **Online ads** accounting for **40%** of our respondents, **TV commercials** accounting for **27%**, and **Outdoor                 billboards** accounting for **12%**.
+      The most effective marketing channel is **Online ads** accounting for **40%** of our respondents, **TV commercials** accounting for **27%**, and **Outdoor billboards** accounting for **12%**.
       
     * 4.b\. How effective are different marketing strategies and channels in reaching our customers?
-      Our potential customers in this case refer to respondents who either heard or tried our product. I wanted to identify what marketing channels these respondents            preferred.
+      Our potential customers in this case refer to respondents who either heard or tried our product. I wanted to identify what marketing channels these respondents preferred.
  
       ![marketing-channels-heard](assets/images/4_b1.png)
       
@@ -154,7 +154,7 @@ There are various questions provided by the marketing team that we are expected 
 
       Finally, focus was made on the percentage of people who rated our product either 4 or 5 compared to the total number of their corresponding cities. As shown above,        **31%** of respondents from **Bangalore** rated our product a 4 or 5, **30%** from **Hyderabad**, and **20%** from **Kolkata**.
 
-      On the different criterias given, **Bangalore** and **Hyderabad** were at the top. I recommend we focus on these cities mainly. While sales made in the other cities will be closely monitored to see of any changes will our as we change our product. 
+      On the different criteria given, **Bangalore** and **Hyderabad** were at the top. I recommend we focus on these cities mainly. While sales made in the other cities will be closely monitored.
 
 * 6\. Purchase Behaviour
     * 6.a\. Where do respondents prefer to purchase energy drinks?
@@ -167,7 +167,7 @@ There are various questions provided by the marketing team that we are expected 
  
       ![typical-consumption-situation](assets/images/6_b.png)
 
-      The situation that respondents typically consume energy drinks the most is **Sports/exercise** which accounts for **45%** of respondents. Next is       **Studying/working** which accounts for **32%** and **Social outings/parties** which accounts for **15%**.
+      The situation that respondents typically consume energy drinks the most is **Sports/exercise** which accounts for **45%** of respondents. Next is **Studying/working** which accounts for **32%** and **Social outings/parties** which accounts for **15%**.
 
     * 6.c\. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
       * i. Price range
@@ -223,3 +223,11 @@ There are various questions provided by the marketing team that we are expected 
     ![packaging-preference](assets/images/7_a5.png)
     
     Respondents prefer **Compact and portable cans** which account for **40%**. Next is **Innovative bottle design** which accounts for **30%** and **Collectible packaging** which accounts for **15%**.
+
+# Recommendation
+1. Our products should be advertised mainly to **19-30 men** as they are our primary customers. who?
+2. **Online Ads** and **TV commercials** should be used for advertisements.  how?
+3. I recommend **Bangalore** and **Hyderabad** as cities to focus advertisements in. These cities are where the highest portion of our respondents reside. These cities have the highest number of respondents who rated our product above average. where?
+4. The price of our product should be between **50-150**, as **74%** of respondents preferred these price ranges. how much?
+5. I recommend selling our products in **Supermarkets**, **Online retailers**, and **Gym and fitness centers**. These locations account for **86%** of the respondents response as regards location of purchase of energy drinks. where ?
+6. Though only **40%** of the respondents said **Yes** to limited edition packaging. I recommend we provide these packages with the intention of targeting these customers.
