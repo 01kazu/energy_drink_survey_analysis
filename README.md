@@ -9,6 +9,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
   - [Primary Insights](#primary-insights)
+  - [Secondary Insights](#secondary-insights)
 - [Recommendation](#recommendation)
 
 
@@ -213,21 +214,33 @@ There are various questions provided by the marketing team that we are expected 
     The top reason respondents choose other brands is **Brand reputation** which accounts for **27%** of the respondents. Next is **Taste/flavor preference** which accounts for **20%** and **Availability** which 
     accounts for **19%**.
   
-    Also I looked into what improvements respondents desired.
+    Also, I looked into what improvements respondents desired.
     ![improvements-desired](assets/images/7_a4.png)
     
     **Reduced sugar content** is the top improvement respondents would like to see in energy drinks which accounts for **30%**. **More natural ingredients** accounts for **25%** and **Wider range of flavors** accounts 
     for **20%**.
 
-    Lastly I looked into what packaging respondents preferred.
+    Lastly, I looked into what packaging respondents preferred.
     ![packaging-preference](assets/images/7_a5.png)
     
     Respondents prefer **Compact and portable cans** which account for **40%**. Next is **Innovative bottle design** which accounts for **30%** and **Collectible packaging** which accounts for **15%**.
 
+## Secondary Insights
+
+1. How many times a week do respondents consume energy drinks?
+   ![consume-frequency](assets/images/8.png)
+
+   **2-3 times a week** is the top most response which accounts for  **35%** of the respondents. Next is **Rarely** which accounts for **20%**, and **2-3 times a month** which accounts for **16%**.
+   
+3. When do respondents consume energy drinks?
+   ![consume-time](assets/images/9.png)
+
+   **To stay awake during work/study** is the top response which accounts for **34%** of respondents. Next is **Before exercise** which accounts for **31%** of respondents, and **For mental alertness** which accounts for **20%** of respondents.  
+
 # Recommendation
-1. Our products should be advertised mainly to **19-30 men** as they are our primary customers. who?
-2. **Online Ads** and **TV commercials** should be used for advertisements.  how?
-3. I recommend **Bangalore** and **Hyderabad** as cities to focus advertisements in. These cities are where the highest portion of our respondents reside. These cities have the highest number of respondents who rated our product above average. where?
-4. The price of our product should be between **50-150**, as **74%** of respondents preferred these price ranges. how much?
-5. I recommend selling our products in **Supermarkets**, **Online retailers**, and **Gym and fitness centers**. These locations account for **86%** of the respondents response as regards location of purchase of energy drinks. where ?
-6. Though only **40%** of the respondents said **Yes** to limited edition packaging. I recommend we provide these packages with the intention of targeting these customers.
+1. Our products should be advertised mainly to **19-30 men** as they are our primary customers.
+2. **Online Ads** and **TV commercials** should be used for advertisements.
+3. I recommend **Bangalore** and **Hyderabad** as cities to focus advertisements in. These cities are where the highest portion of our respondents reside. These cities have the highest number of respondents who rated our product above average.
+4. The price of our product should be between **50-150**, as **74%** of respondents preferred these price ranges.
+5. I recommend selling our products in **Supermarkets**, **Online retailers**, and **Gym and fitness centers**. These locations account for **86%** of the respondents response as regards location of purchase of energy drinks.
+6. **40%** of the respondents said **Yes** to limited edition packaging which is nearly half of our respondents. I recommend we provide these packages with the intention of targeting these customers.
