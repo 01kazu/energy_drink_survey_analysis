@@ -1,3 +1,6 @@
+[![Watch the video](https://raw.githubusercontent.com/01kazu/energy_drink_survey_analysis/main/assets/images/dashboard.png)](https://raw.githubusercontent.com/01kazu/energy_drink_survey_analysis/main/assets/videos/dashboard_video.mkv)
+
+
 # CodeX Energy drink survey analysis
 
 # Table of Contents
