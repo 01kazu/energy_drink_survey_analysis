@@ -14,6 +14,7 @@
   - [Primary Insights](#primary-insights)
   - [Secondary Insights](#secondary-insights)
 - [Recommendation](#recommendation)
+- [Dashboard](#dashboard)
 
 
 # Introduction
@@ -247,3 +248,6 @@ There are various questions provided by the marketing team that we are expected 
 4. The price of our product should be between **50-150**, as **74%** of respondents preferred these price ranges.
 5. I recommend selling our products in **Supermarkets**, **Online retailers**, and **Gym and fitness centers**. These locations account for **86%** of the respondents response as regards location of purchase of energy drinks.
 6. **40%** of the respondents said **Yes** to limited edition packaging which is nearly half of our respondents. I recommend we provide these packages with the intention of targeting these customers.
+
+# Dashboard
+![dashboard](assets/images/dashboard.gif)
